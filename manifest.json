@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Resumidor Rápido",
+    "version": "0.1",
+    "description": "Resume texto seleccionado con un solo clic.",
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "icon.png"
+    }
+}
